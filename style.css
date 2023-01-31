@@ -1,0 +1,124 @@
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Paprika', cursive;
+    font-family: 'Poppins', sans-serif;
+}
+
+.topSection {
+    display: flex;
+    background-color: aqua;
+    align-items: center;
+}
+
+.half-width {
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img {
+    width: 60%;
+    height: 70%;
+    ;
+}
+
+.red {
+    color: red;
+}
+
+.link-button {
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    background-image: linear-gradient(green, orange);
+    padding: 10px 40px;
+    border-radius: 10px;
+}
+
+/* about sumon mirza */
+.about {
+    display: flex;
+    align-items: center;
+    background-color: burlywood;
+}
+
+.half-side {
+    width: 50%;
+
+}
+
+.half-side img {
+    width: 90%;
+}
+
+/* again about sumon mirza */
+.officeRoomPic {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.roomDetailes {
+    display: flex;
+}
+
+.shadow {
+    padding-left: 5%;
+    box-shadow: 20px 5px 20px gray;
+    border-radius: 20px;
+}
+
+.shadow img {
+    margin-top: 10px;
+    width: 90%;
+    height: 60%;
+}
+
+/* again about sumon mirza */
+.counting {
+    align-content: center;
+    padding-bottom: 5%;
+}
+
+.countingArea {
+    display: flex;
+    margin-top: 5%;
+}
+
+.countingArea {
+    margin-left: 20%;
+    margin-right: 20%;
+    box-shadow: 10px 10px 10px 10px gray;
+    border-radius: 20px;
+}
+
+.center1 {
+    float: left;
+    width: 35%;
+    /* background: Red; */
+    text-align: center;
+}
+
+.center2 {
+    float: left;
+    width: 35%;
+    /* background: green; */
+    text-align: center;
+}
+
+.center3 {
+    float: left;
+    width: 35%;
+    /* background: blue; */
+    text-align: center;
+}
+
+/* Last Item */
+.lastItem {
+    color: gray;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: black;
+}
